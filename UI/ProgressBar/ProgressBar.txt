@@ -1,0 +1,79 @@
+[ProgressBar_Base_01]
+SetIndex: 212
+ItemCount: 1
+424,0,0,1933,119,0,0
+
+[ProgressBar_Bar_01]
+SetIndex: 213
+ItemCount: 2
+424,0,119,1847,52,0,0
+424,0,171,1847,52,0,0
+
+[ProgressBar_Base_02]
+SetIndex: 214
+ItemCount: 1
+425,0,0,849,35,0,0
+
+[ProgressBar_Bar_02]
+SetIndex: 215
+ItemCount: 2
+425,0,35,810,3,0,0
+425,0,38,810,3,0,0
+
+[ProgressBar_Base_03]
+SetIndex: 217
+ItemCount: 1
+427,0,0,278,278,0,0
+
+[ProgressBar_Bar_03_01]
+SetIndex: 218
+ItemCount: 2
+427,278,0,260,260,0,0
+427,798,0,260,260,0,0
+
+[ProgressBar_Bar_03_02]
+SetIndex: 219
+ItemCount: 2
+427,538,0,260,260,0,0
+427,798,0,260,260,0,0
+
+
+[ProgressBar_Base_04]
+SetIndex: 251
+ItemCount: 1
+428,0,0,398,87,0,0
+
+[ProgressBar_Bar_04_01]
+SetIndex: 252
+ItemCount: 2
+428,0,120,320,33,0,0
+428,0,87,320,33,0,0
+
+[ProgressBar_Bar_04_02]
+SetIndex: 253
+ItemCount: 2
+428,0,153,320,33,0,0
+428,0,87,320,33,0,0
+
+[ProgressBar_Bar_04_03]
+SetIndex: 254
+ItemCount: 2
+428,0,186,320,33,0,0
+428,0,87,320,33,0,0
+
+[ProgressBar_Bar_04_04]
+SetIndex: 255
+ItemCount: 2
+428,0,219,320,33,0,0
+428,0,87,320,33,0,0
+
+[ProgressBar_Base_05]
+SetIndex: 256
+ItemCount: 1
+429,0,0,1086,63,0,0
+
+[ProgressBar_Bar_05_01]
+SetIndex: 257
+ItemCount: 2
+429,0,63,1015,25,0,0
+429,0,88,1015,25,0,0

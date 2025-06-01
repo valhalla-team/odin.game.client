@@ -1,0 +1,10 @@
+[TextInput_01]
+SetIndex: 228
+ItemCount: 1
+436,0,0,552,92,0,0
+
+
+[TextInput_Large_01]
+SetIndex: 229
+ItemCount: 1
+437,0,0,941,76,0,0

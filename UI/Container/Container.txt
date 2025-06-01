@@ -1,0 +1,54 @@
+[Container_01]
+SetIndex: 201
+ItemCount: 1
+413,0,0,727,592,0,0
+
+[Container_02]
+SetIndex: 202
+ItemCount: 1
+414,0,0,2334,1514,0,0
+
+[Container_03]
+SetIndex: 203
+ItemCount: 1
+415,0,0,2334,1514,0,0
+
+[Container_04]
+SetIndex: 204
+ItemCount: 1
+416,0,0,475,261,0,0
+
+[Container_05]
+SetIndex: 205
+ItemCount: 1
+417,0,0,615,1386,0,0
+
+[Container_06]
+SetIndex: 206
+ItemCount: 1
+418,0,0,523,1096,0,0
+
+[Container_07]
+SetIndex: 207
+ItemCount: 1
+419,0,0,666,1424,0,0
+
+[Container_08]
+SetIndex: 208
+ItemCount: 1
+420,0,0,764,634,0,0
+
+[Container_09]
+SetIndex: 209
+ItemCount: 1
+421,0,0,414,414,0,0
+
+[Container_10]
+SetIndex: 210
+ItemCount: 1
+422,0,0,558,202,0,0
+
+[Container_11]
+SetIndex: 211
+ItemCount: 1
+423,0,0,758,708,0,0
