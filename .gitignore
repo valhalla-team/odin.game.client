@@ -1,0 +1,10 @@
+# Ignorar todos os arquivos .exe, exceto Game.exe
+*.exe
+!Game.exe
+
+# Ignorar todos os arquivos .log
+*.log
+
+# Ignorar credentials.config e odin.config
+credentials.config
+odin.config
