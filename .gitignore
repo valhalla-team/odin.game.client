@@ -8,3 +8,4 @@
 # Ignorar credentials.config e odin.config
 odin.config
 Env/credential.config
+ScreenShot/
