@@ -6,5 +6,5 @@
 *.log
 
 # Ignorar credentials.config e odin.config
-credentials.config
 odin.config
+Env/credential.config
