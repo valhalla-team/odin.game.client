@@ -1,5 +1,6 @@
 # Ignorar todos os arquivos .exe, exceto Game.exe
 *.exe
+*.pdb
 !Game.exe
 
 # Ignorar todos os arquivos .log
