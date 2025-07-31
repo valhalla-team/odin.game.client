@@ -6,3 +6,5 @@ Abs_HP
 +HP/ATQ
 +Precisão
 MP_=_HP
+
+
